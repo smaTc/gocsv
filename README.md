@@ -42,7 +42,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/gocarina/gocsv"
+	"github.com/smaTc/gocsv"
 )
 
 type Client struct { // Our example struct, you can use "-" to ignore a field
