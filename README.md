@@ -1,7 +1,11 @@
+Disclaimer
+=====
+This is a fork that is only kept to use the parent struct funtionality in struct tags
+
 Go CSV
 =====
 
-The GoCSV package aims to provide easy serialization and deserialization functions to use CSV in Golang
+The GoCSV package aims to provide easy serialization and deserialization functions to use CSV in Golang.
 
 API and techniques inspired from https://godoc.org/gopkg.in/mgo.v2
 
@@ -11,7 +15,7 @@ API and techniques inspired from https://godoc.org/gopkg.in/mgo.v2
 Installation
 =====
 
-```go get -u github.com/gocarina/gocsv```
+```go get -u github.com/smaTc/gocsv```
 
 Full example
 =====
